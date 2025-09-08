@@ -1,10 +1,10 @@
-package com.jonathan.RetoTenicoBCI;
+package com.jonathan;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RetoTenicoBciApplicationTests {
+class MainTests {
 
 	@Test
 	void contextLoads() {

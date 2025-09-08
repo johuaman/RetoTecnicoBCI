@@ -59,6 +59,8 @@ Instalación y Configuración
 Clonar el repositorio
 git clone https://github.com/johuaman/RetoTecnicoBCI.git
 
+branch: feature/RetoTecnicoBCI
+
 cd RetoTecnicoBCI
 
 Compilar el proyecto
